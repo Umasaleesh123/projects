@@ -1,1 +1,6 @@
 asdfgfsdfg
+
+git clone link
+git add .
+git commit -m "any message"
+git push
